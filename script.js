@@ -1,5 +1,5 @@
 console.log(
-    "%c Made by Ridham Verma ",
+    "%c Made by Ridham Kumar ",
     "font-size: 20px; font-weight: bold; color:rgb(225, 200, 57); background: #222; padding: 1px; border-radius: 5px;"
   );
 console.log("Hi devs...")
